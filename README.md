@@ -1,0 +1,1 @@
+# inv_capability_support
